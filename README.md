@@ -1,12 +1,12 @@
-# 🔍 Data Mining — Lecture Notes and Applied Notebooks
+# 🔍 Data Mining
 
-**Haydar Kilic | Faculty of Engineering, Artificial Intelligence Engineering**
+**Haydar Kilic | Artificial Intelligence Engineering**
 
 ---
 
 ## 📖 About
 
-This repository contains weekly Jupyter Notebooks for the **Data Mining** course. Each notebook accompanies the theoretical lecture slides for that week as a hands-on Python exercise: the concepts and numerical examples from the slides are reproduced exactly, then generalized and reinforced.
+This repository contains Jupyter Notebooks for the **Data Mining** course. Each notebook accompanies the theoretical lecture slides for that as a hands-on Python exercise: the concepts and numerical examples from the slides are reproduced exactly, then generalized and reinforced.
 
 ---
 
@@ -180,6 +180,9 @@ data_mining/
 ├── Lecture5/
 │   └── DM_Lecture5_Notebook.ipynb
 ```
+## 📖 Reference
+
+Tan, P. N., Steinbach, M., & Kumar, V. (2016). Introduction to data mining. Pearson Education India.
 
 ---
 
