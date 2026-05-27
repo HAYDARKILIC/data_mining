@@ -1,4 +1,4 @@
-# 🔍 Data Mining
+# Data Mining
 
 This repository serves as a comprehensive, implementation-focused guide to core **Data Mining** concepts and **Machine Learning** pipelines. Moving from foundational classification theories to advanced ensemble models, pattern evaluation, and unsupervised structural analysis, each notebook bridges rigorous data theory with practical execution.
 
